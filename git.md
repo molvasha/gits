@@ -1,6 +1,4 @@
-# header
+# Знакомство с Git
 
-line 2
 
-*line 3*
 
