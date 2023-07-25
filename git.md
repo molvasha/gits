@@ -45,3 +45,7 @@ git checkout master.
 
 Пример: https://gist.github.com/YordanGeorgiev/90c84066f8b4d80244b35af8112574de 
 
+* ##  git diff
+
+Показывает разницу между текущим файлом
+и сохранённым
