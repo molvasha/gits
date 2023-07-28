@@ -53,7 +53,3 @@ git checkout master.
 * ## git branch
 Создать ветку можно командой git branch <название ветки>.
 Делать это надо в папке с репозиторием
-
-дополнили код в ветке (lj,fdbkb xnj-nj tot)
-
-jsgfbkvjhbn
